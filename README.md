@@ -4,7 +4,8 @@
 - I’m currently working on [ChatGenie](https://replit.com/@zspocter15/ChatGenie) on the [ChatGenie Team](https://github.com/ChatGenie-Team)
 - How to reach me: Discord \(x215.useracc)
 - Pronouns: he/him/his
-- Want to learn \(web): React, Node.js, Next.js, Tailwind CSS
-- Want to learn \(non-web): C, C++, C#, Java, Python, Lua, Rust
-- Want to learn \(esolangs): Brainf**k
-- Basically I want to be a "jack of all trades" of sorts for programming languages
+> Want to learn
+>> Web: React, Node.js, Next.js, Tailwind CSS
+>> Non-web: C, C++, C#, Java, Python, Lua, Rust
+>> Esoteric: Brainf**k
+>> Basically I want to be a "jack of all trades" of sorts for programming languages
