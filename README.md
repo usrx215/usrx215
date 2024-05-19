@@ -6,7 +6,6 @@
 - Pronouns: he/him/his
   
 Want to learn
-- Web: React, Node.js, Next.js, Tailwind CSS
+- Web: React, Node.js, Tailwind CSS, more JS + HTML + CSS
 - Non-web: C, C++, C#, Java, Python, Lua, Rust
-- Esoteric: Brainf**k  
-Basically I want to be a "jack of all trades" of sorts for programming languages
+- Esoteric: Brainf**k
