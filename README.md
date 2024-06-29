@@ -1,11 +1,18 @@
 # Xandr215
 ### Hi! I'm Xandr215. I use Linux Mint with many DEs. I code mainly HTML, but do some CSS and JS.
 
-- I’m currently working on [ChatGenie](https://replit.com/@zspocter15/ChatGenie) on the [ChatGenie Team](https://github.com/ChatGenie-Team)
-- How to reach me: Discord \(x215.useracc)
+- I’m currently working on [ChatGem](https://replit.com/@zspocter15/ChatGem) on the [ChatGenie Team](https://github.com/ChatGem)
+- How to reach me: Discord (x215.useracc)
 - Pronouns: he/him/his
   
-Want to learn
+#### Want to learn
 - Web: React, Node.js, Tailwind CSS, more JS + HTML + CSS
-- Non-web: C, C++, C#, Java, Python, Lua, Rust
+- Non-web: C, C++, C#, Java, Python, Lua, Rust, more mPy + Arduino
 - Esoteric: Brainf**k
+
+#### Languages I know
+- HTML (10%, I can make a basic page)
+- CSS (50%, there are tricks I don't know)
+- JS (1%, using AI currently)
+- MicroPython (mPy) [10%, I just started]
+- Arduino (25%, I'm okay)
