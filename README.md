@@ -1,5 +1,5 @@
 # Xandr215
-### Hi! I'm Xandr215. I use Linux Mint with many DEs. I code mainly HTML, but do some CSS and JS.
+### Hi! I'm Xander. I use Linux Mint with Cinnamon and KDE Plasma. I code mainly HTML, but do some CSS and JS.
 
 - I’m currently working on [ChatGem](https://replit.com/@zspocter15/ChatGem) on the [ChatGenie Team](https://github.com/ChatGem)
 - How to reach me: Discord (x215.useracc)
