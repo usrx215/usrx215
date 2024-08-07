@@ -16,3 +16,4 @@
 - JS (1%, using AI currently)
 - MicroPython (mPy) [10%, I just started]
 - Arduino (25%, I'm okay)
+- "Minecraft: Java Edition" modding with Java
