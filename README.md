@@ -17,3 +17,6 @@
 - MicroPython (mPy) [10%, I just started]
 - Arduino (25%, I'm okay)
 - "Minecraft: Java Edition" modding with Java
+  
+  
+TELL MY PARENTS TO STOP ASKING ME TO CODE THINGS FOR THEM
