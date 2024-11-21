@@ -11,8 +11,8 @@
 - Esoteric: Brainf**k
 
 #### Languages I know
-- HTML (10%, I can make a basic page)
-- CSS (50%, there are tricks I don't know)
+- HTML (20%, I can make a basic page)
+- CSS (25%, there are tricks I don't know)
 - JS (1%, using AI currently)
 - MicroPython (mPy) [10%, I just started]
 - Arduino (25%, I'm okay)
