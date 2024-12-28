@@ -1,7 +1,7 @@
 # Xandr215
-### Hi! I'm Xander. I use Linux Mint with Cinnamon and KDE Plasma. I code mainly HTML, but do some CSS and JS. I also do a bit of MicroPython and Arduino coding.
+### Hi! I'm Xander. I use Linux Mint with Cinnamon and KDE Plasma. I do mainly HTML, but do some CSS and JS. I also do a bit of MicroPython and Arduino coding.
 
-- I’m currently working on [ChatGem](https://replit.com/@zspocter15/ChatGem) on the [ChatGem Team](https://github.com/ChatGem)
+- I’m currently working on [ChatGem](https://replit.com/@zspocter15/ChatGem) on the [ChatGem Team](https://github.com/ChatGem) and [Squares Center](https://squarescenter.w3spaces.com) and [Sqaures Center Games](https://sc-games.w3spaces.com) with my friend Zak or @zspocter15 on Replit
 - How to reach me: Discord (x215.useracc)
 - Pronouns: he/him/his
   
